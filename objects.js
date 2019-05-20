@@ -1,3 +1,3 @@
 var playlist = {
-
+  "Sepultura", "Arise"
 }
